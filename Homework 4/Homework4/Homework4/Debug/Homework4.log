@@ -1,0 +1,11 @@
+﻿  Map.cpp
+d:\cs projects\cs32\homework 4\homework4\homework4\map.h(235): warning C4812: obsolete declaration style: please use 'Map<KeyType,ValueType>::Map' instead
+d:\cs projects\cs32\homework 4\homework4\homework4\map.h(235): warning C4812: obsolete declaration style: please use 'Map<int,double>::Map' instead
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.h(236): note: while compiling class template member function 'Map<int,double>::Map(void)'
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.cpp(10): note: see reference to function template instantiation 'Map<int,double>::Map(void)' being compiled
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.cpp(10): note: see reference to class template instantiation 'Map<int,double>' being compiled
+d:\cs projects\cs32\homework 4\homework4\homework4\map.h(235): warning C4812: obsolete declaration style: please use 'Map<std::string,int>::Map' instead
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.h(236): note: while compiling class template member function 'Map<std::string,int>::Map(void)'
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.cpp(11): note: see reference to function template instantiation 'Map<std::string,int>::Map(void)' being compiled
+  d:\cs projects\cs32\homework 4\homework4\homework4\map.cpp(11): note: see reference to class template instantiation 'Map<std::string,int>' being compiled
+  Homework4.vcxproj -> D:\CS Projects\CS32\Homework 4\Homework4\Debug\Homework4.exe
